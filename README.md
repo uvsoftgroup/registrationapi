@@ -22,6 +22,8 @@ Technology & Tools used:
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL61PaxtHbYMqRYc93eGCbvs4QJ_OBQghD)
 
 ## 36_1:Development
+[36_1](https://www.youtube.com/watch?v=OgVICtNnO7I&t=62s)
 [<img src="https://img.youtube.com/vi/OgVICtNnO7I/maxresdefault.jpg" width="100%">](https://youtu.be/lakR6MrjdPo)
 # 32_2:Development
+[36_2](https://www.youtube.com/watch?v=XURRzK6v5sk&t=45s)
 [<img src="https://img.youtube.com/vi/XURRzK6v5sk/maxresdefault.jpg" width="100%">](https://youtu.be/rN9ViuutrWE)
